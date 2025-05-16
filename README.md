@@ -1,25 +1,38 @@
 # End_project
-с информацией о глобальном потеплении (например, ответы на классные вопросы)
-Тип сайта - Эко калькулятор
+With information about global issues
+Type of website – Eco Calculator
 
-## Библиотеки, которые я буду использовать
-- flask
-- html
-- css
-- jinja2
+## Libraries I'm going to use
+Flask
 
-## Референсы, которые мне пригодятся
-- from flask import Flask, render_template, request
-app = Flask(__name__)
-if __name__ == "__main__":
+HTML
+
+CSS
+
+Jinja2
+
+## References that will be useful to me
+python
+Copy
+Edit
+from flask import Flask, render_template, request  
+app = Flask(__name__)  
+if __name__ == "__main__":  
     app.run(debug=True)
-  короче весь код похожее на мой проект в M3L3
+## Basically, all the code is similar to my project in M3L3
 
-## Гайды-статьи, где есть полезная для меня информация
-1.https://www.un.org/ru/un75/climate-crisis-race-we-can-win
-2.https://www.un.org/ru/climatechange/science/causes-effects-climate-change
-по тому что мне нужные информации тут
+Guides/articles where I found useful information
+https://www.un.org/ru/un75/climate-crisis-race-we-can-win
+
+https://www.un.org/ru/climatechange/science/causes-effects-climate-change
+These sites contain the information I need
+
+Brief Information:
+My name is Azer Ismailzade. I am 13 years old. Let me tell you about my project. I have a website with several pages (5).
+On the main page, there is general information about global warming.
+The second page talks about resources.
+The third page gives information about what might happen and the dangers involved.
+The fourth page explains where and when this warming might occur (what it may lead to).
+The fifth page provides motivation.
 
 
-Мини информация:
-Меня зовут Азер Исмаилзаде. Мне 11 лет. Давай я расскажу про свой проект. У меня сайт с некоторыми страницами(5). В главном странице даётся главная информация про глобальной потеплении. Во втором странице говорится про ресурсов. В третьем странице даётся информация про то что может случится какие опасности есть. В четвёртом странице где и когда будет произойти это потепление(к чему приведёт это потепление). На пятом странице мотивация
